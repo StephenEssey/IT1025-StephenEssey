@@ -1,16 +1,14 @@
 ## Your Name / Date
-
+Stephen Essey, January 31, 2021
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+Hello! My name is Stephen, I'm from Parma. I'm a high school graduate doing my second semester of college and I'm still trying to figure things out. I do a small part-time job at a hockey rink. I guess two interesting things about me are that I love parrots and video games. I want to major in computer science so I'm taking this course as a sort of prerequisite.
 
 ## Information System Components
-
+Information systems components include the hardware, the software, the data, and the networking.
 ## GitHub
 ### Client - Server Architecture
 ### Cloud Computing
 
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+I could not find where to learn about github's server architecture and cloud computing but I was able to create a repository and copy the template. This is my first completed lab.
 
