@@ -25,12 +25,15 @@ Python is said to have a pseudo-code nature because of it's simplicity and resem
 A compiled language, such as C or C++ is one that needs to be compiled from the language itself into one that can be understood by a computer, such as binary, before it can be run. An interpreted language, such as python, does not have to be 'converted' and can be ran straight from the source code, which gets fed information to the computer internally using it's own technology.
 ## Career Exploration
 ### College Central
+From what I've looked through so far, the website seems to have a great system of listing job and intern offers, and it's definitely something I will be using in the future.
 ### Bureau of Labor Statistics
+There are many career options relating to IT that I found listed on the site, including computer and informatino research scientists, computer network architects, computer programmers and more. I seem to be most interested in being a computer programmer. Even with just a bachelor's degree the median pay is over 85,000$ which I think is astounding.
 ### Certifications
 ### Certificates and Degrees
+I think I would be most interested in Cisco's certificate as the other two both involve cyber security which I have no interest in. 
 ### Co-ops / Internships
+To be 'co-op ready' I would have to go through Tri-C's orientation process, upload a resume, work with an employer relations specialist, and then sign an education agreemant to register for credits. It's important because it provides the opportunity to look deeper into my interests with work experience.
 ### Industry Associations / Student Organizations
-
+The IEEE is an organization dedicated to "advancing technology for the benefit of humanity". They help publish works such as journals and magazines and host conferences. They are based all over the world, half of their members are outside of the United States.
 ## Conclusion
-
-Include your professional conclusion here...
+To conclude, this lab went over a wide range of topics, including softwares, virtualization, coding in the form of python, and lastly career exploration.
