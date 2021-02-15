@@ -1,7 +1,7 @@
 ## Your Name / Date
-
+Stephen Essey 02/11/2021
 ## Executive Summary 
-Include your executive summary here...
+Today's Lab will focus on CMD, Python and graphics.
 
 ## Python IDLE
 
